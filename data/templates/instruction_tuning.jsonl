@@ -1,0 +1,6 @@
+{"instruction": "What is the capital of France?", "input": "", "output": "The capital of France is Paris."}
+{"instruction": "Explain the concept of machine learning", "input": "", "output": "Machine learning is a subset of artificial intelligence that enables computers to learn and make decisions from data without being explicitly programmed."}
+{"instruction": "Write a Python function to calculate factorial", "input": "", "output": "def factorial(n):\n    if n == 0 or n == 1:\n        return 1\n    return n * factorial(n - 1)"}
+{"instruction": "Translate the following text to Spanish", "input": "Hello, how are you?", "output": "Hola, ¿cómo estás?"}
+{"instruction": "Summarize the following text", "input": "Artificial intelligence is transforming industries worldwide. From healthcare to finance, AI applications are becoming increasingly sophisticated and widespread.", "output": "AI is revolutionizing multiple industries globally, with growing sophistication in applications across healthcare, finance, and other sectors."}
+

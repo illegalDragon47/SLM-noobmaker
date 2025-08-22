@@ -1,0 +1,5 @@
+{"question": "If a train travels 60 mph for 2 hours, how far does it go?", "reasoning": "To find distance, I need to use the formula: distance = speed × time. Given: speed = 60 mph, time = 2 hours. Therefore: distance = 60 × 2 = 120 miles.", "answer": "120 miles"}
+{"question": "What is 15% of 200?", "reasoning": "To calculate 15% of 200, I convert the percentage to decimal: 15% = 0.15. Then multiply: 0.15 × 200 = 30.", "answer": "30"}
+{"question": "If I have 5 apples and give away 2, then buy 3 more, how many do I have?", "reasoning": "Starting with 5 apples, I give away 2: 5 - 2 = 3 apples remaining. Then I buy 3 more: 3 + 3 = 6 apples total.", "answer": "6 apples"}
+{"question": "What comes next in the sequence: 2, 4, 8, 16, ?", "reasoning": "Looking at the pattern: 2 → 4 (×2), 4 → 8 (×2), 8 → 16 (×2). Each number is doubled, so the next number should be 16 × 2 = 32.", "answer": "32"}
+
